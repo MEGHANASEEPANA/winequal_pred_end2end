@@ -1,0 +1,1 @@
+from src.winequality.logging import logger
