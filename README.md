@@ -1,14 +1,16 @@
 # winequal_pred_end2end
 
 End-to-End-Machine-Learning-Pipeline
-Workflows
-Update config.yaml
-Update schema.yaml
-Update params.yaml
-Update the entity
-Update the configuration manager in src config
-Update the components
-Update the pipeline
-Update the main.py
-Update the app.py
+
+Workflows:
+
+1. Update config.yaml
+2. Update schema.yaml
+3. Update params.yaml
+4. Update the entity
+5. Update the configuration manager in src config
+6. Update the components
+7. Update the pipeline
+8. Update the main.py
+9. Update the app.py
 
